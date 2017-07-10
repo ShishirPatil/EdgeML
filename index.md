@@ -1,4 +1,4 @@
-## Intelligent Devices Expedition 
+# Intelligent Devices Expedition 
 ## Microsoft Research India
 
 Insert overview of project
