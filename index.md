@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Intelligent Devices Expedition -- Microsoft Research India
 
 You can use the [editor on GitHub](https://github.com/harsha-simhadri/IDE-MSRI-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
