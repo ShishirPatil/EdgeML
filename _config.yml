@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Edge ML
+tagline:          'AI on the edge.'
+description:      'Microsoft Research India's Work on bringing AI to the edge.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+# plugins:
+#   - jekyll-
+
+plugins:
+      - jekyll-paginate
+      - jekyll-gist
