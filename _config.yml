@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            Edge ML
 tagline:          'AI on the edge.'
-description:      'Microsoft Research India's Work on bringing AI to the edge.'
-url:              http://hyde.getpoole.com
+description:      'Microsoft Research India's Work on bringing AI to the edge.
+'url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
