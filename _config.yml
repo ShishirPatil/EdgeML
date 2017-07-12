@@ -8,25 +8,23 @@ permalink:        pretty
 # Setup
 title:            'Edge ML'
 tagline:          'AI on the edge.'
-description:      'Microsoft Research India''s Work on bringing AI to the edge.'
-url:              'http://harsha-simhadri.org/EdgeML/'
-baseurl:          '/EdgeML'
+description:      'An Intelligent Devices Expedition by Microsoft Research India'
+url:              'http://harsha-simhadri.org/'
+baseurl:          /EdgeML
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-  paginate:         5
+paginate:         2
 
 # Custom vars
-version:          2.1.0
-
 github:
-  repo:           https://github.com/poole/hyde
-
-# plugins:
-#   - jekyll-
+  repo:           https://github.com/harsha-simhadri/EdgeML
 
 plugins:
   - jekyll-paginate
   - jekyll-gist
+
+# For URL Setup, refer to
+# https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908

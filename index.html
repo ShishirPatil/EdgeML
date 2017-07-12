@@ -2,12 +2,22 @@
 layout: default
 title: Home
 ---
+<h1>Intelligent Devices Expedition</h1>
 
+Culpa magna excepteur irure aliquip Microsoft Research India, proident excepteur exercitation nulla cupidatat dolore incididunt dolore incididunt ut officia enim ut ullamco pariatur duis in quis laborum magna pariatur ut elit fugiat commodo magna aute ullamco amet tempor aliqua in sunt ullamco amet dolor et culpa non et ad cupidatat laborum ex velit ut tempor sed laboris consequat occaecat ut et sit in pariatur sunt culpa officia commodo esse laboris nisi consequat deserunt laboris proident id sit voluptate occaecat ut sint ut eiusmod quis in aliqua irure elit fugiat deserunt.
+
+<h3>Support or Contact</h3>
+
+Check out our code [documentation](http://doxy-output?).
+Email [contact support](mailto:harshasi@microsoft.com) and we’ll help you sort it out.
+
+
+<!--
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl}}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
@@ -21,17 +31,18 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
