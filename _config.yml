@@ -6,17 +6,17 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Edge ML
+title:            'Edge ML'
 tagline:          'AI on the edge.'
-description:      'Microsoft Research India's Work on bringing AI to the edge.
-'url:              http://hyde.getpoole.com
-baseurl:          /
+description:      'Microsoft Research India''s Work on bringing AI to the edge.'
+url:              'http://harsha-simhadri.org/EdgeML/'
+baseurl:          '/EdgeML'
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+  paginate:         5
 
 # Custom vars
 version:          2.1.0
@@ -28,5 +28,5 @@ github:
 #   - jekyll-
 
 plugins:
-      - jekyll-paginate
-      - jekyll-gist
+  - jekyll-paginate
+  - jekyll-gist
