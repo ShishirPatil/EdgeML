@@ -8,6 +8,7 @@ title: Media
  
 ## Talks
 - TAB video and slides
+ ### Robust PCA COLT 2017 [Poster](files/robustpca-colt-poster.pdf) and [slides](files/robustpca-colt-slides.pptx)
 
 ## Workshops
 - ICML Workshop
