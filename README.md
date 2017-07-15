@@ -2,7 +2,7 @@
 Placeholder page for the Intelligent Devices Expedition, Microsoft Research India.
 
 
-## Author
+## Authors
 
 [Don Dennis](https://github.com/metastableB)
 
