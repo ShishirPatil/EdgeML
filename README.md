@@ -5,6 +5,7 @@ Placeholder page for the Intelligent Devices Expedition, Microsoft Research Indi
 ## Author
 
 [Don Dennis](https://github.com/metastableB)
+
 [Harsha Simhadri](harsha-simhadri.org)
 
 ## Theme
