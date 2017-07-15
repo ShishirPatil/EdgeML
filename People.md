@@ -11,6 +11,7 @@ Individual Photos and Links:
 Will have to use bootstrap to override the defaults. 
 
 ![placeholder](http://placehold.it/200x200 "Small example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
+
+## Current members
+
+## Past members (with current affiliations)
