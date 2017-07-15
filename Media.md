@@ -3,7 +3,13 @@ layout: page
 title: Media
 ---
 
-<a href="https://blogs.microsoft.com/next/2017/06/29/ais-big-leap-tiny-devices-opens-world-possibilities/">
-Feature
+## Features
+- <a href="https://blogs.microsoft.com/next/2017/06/29/ais-big-leap-tiny-devices-opens-world-possibilities/">
+Microsoft Blog
 </a>
-on Microsoft Blog
+ 
+## Talks
+- TAB video and slides
+
+## Workshops
+- ICML Workshop
