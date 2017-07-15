@@ -7,7 +7,8 @@ title: Media
 [Microsoft Blog](https://blogs.microsoft.com/next/2017/06/29/ais-big-leap-tiny-devices-opens-world-possibilities/)
  
 ## Talks
-- TAB video and slides
+ TAB video and slides
+
  ### Robust PCA COLT 2017 [Poster](files/robustpca-colt-poster.pdf) and [slides](files/robustpca-colt-slides.pptx)
 
 ## Workshops
