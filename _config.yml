@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            'Edge ML'
-tagline:          'AI on the edge.'
-description:      'An Intelligent Devices Expedition by Microsoft Research India'
+tagline:          'The Edge of ML.'
+description:       Microsoft Research India'
 url:              'http://harsha-simhadri.org/'
 baseurl:          /EdgeML
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Harsha Vardhan Simhadri'
+  url:            http://harsha-simhadri.org
 
 paginate:         2
 
