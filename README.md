@@ -1,5 +1,5 @@
 ## What?
-Placeholder page for the Intelligent Devices Expedition, Microsoft Research India
+Placeholder page for the Intelligent Devices Expedition, Microsoft Research India.
 
 
 ## Author
