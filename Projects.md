@@ -4,17 +4,7 @@ title: Projects
 ---
 
 ### Bonsai
-- Paper
-- C++ Code
-- Instructions
+- Overview
 
 ### ProtoNN
-- Paper
-- Matlab Code
-- C++ Code
-- Instructions
-
-## Arduino Sketches and Tutorials
-
-Check out our code for Arduino [arduino](http://?).
-More tutorials and videos here.
+Overview
