@@ -3,11 +3,11 @@ layout: page
 title: Publications
 ---
 
-- <b><a href="files/bonsai.pdf">Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things.</a></b>
+### [Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things.](files/bonsai.pdf)
   <i> Ashish Kumar, Saurabh Goyal, Manik Varma, in ICML 2017.</i>
 
-- <b><a href="files/protonn.pdf">ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices.</a></b>
+### [ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices.](files/protonn.pdf)
   <i>Ankit Gupta, Chirag Gupta, Arun Sai Suggala, Ankit Gupta, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain, in ICML 2017.</i>
   
-- <b>Thresholding based Efficient Outlier Robust PCA</b>. 
+### [Thresholding based Efficient Outlier Robust PCA.](files/robustpca.pdf) 
   <i>Yeshwanth Cherapanamjeri, Prateek Jain, Praneeth Netrapalli, in COLT 2017, February 18, 2017.</i>
