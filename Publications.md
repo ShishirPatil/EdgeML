@@ -10,4 +10,4 @@ title: Publications
   <i>Ankit Gupta, Chirag Gupta, Arun Sai Suggala, Ankit Gupta, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain, in ICML 2017.</i>
   
 ### [Thresholding based Efficient Outlier Robust PCA.](files/robustpca.pdf) 
-  <i>Yeshwanth Cherapanamjeri, Prateek Jain, Praneeth Netrapalli, in COLT 2017, February 18, 2017.</i>
+  <i>Yeshwanth Cherapanamjeri, Prateek Jain, Praneeth Netrapalli, in COLT 2017.</i>
