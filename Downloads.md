@@ -2,7 +2,9 @@
 layout: page
 title: Downloads
 ---
-## ProtoNN
+
+<a name="Bonsai"></a>
+## Bonsai 
 
 |Code:||
 |Arduino Sketches:||
@@ -12,7 +14,8 @@ title: Downloads
 Relevant publications can be obtained from the [publications]({{ site.baseurl }}/Publications) page.
 
 
-## Bonsai
+<a name="ProtoNN"></a>
+## ProtoNN 
 
 |Code:||
 |Arduino Sketches:||
@@ -21,17 +24,19 @@ Relevant publications can be obtained from the [publications]({{ site.baseurl }}
 
 Relevant publications can be obtained from the [publications]({{ site.baseurl }}/Publications) page.
 
-## Robust PCA
+
+<a name="RobustPCA"></a>
+## Robust PCA 
 
 
-|Code:||
+|Code:|[Github](https://github.com/andrewssobral/lrslibrary)|
 |Arduino Sketches:||
 |Poster:|[Robust PCA Poster]({{ site.baseurl }}/files/robustpca-poster.pdf)|
 |Slides:|[COLT 2017: Robust PCA Slides]({{ site.baseurl }}/files/robustpca-colt-slides.pptx)|
 
 Relevant publications can be obtained from the [publications]({{ site.baseurl }}/Publications) page.
 
-
+The code for Robust PCA is in the folder: `algorithms/mc/PG-RMC` in the above linked Github repository.
 
 
 # Other Resources
