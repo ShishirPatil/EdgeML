@@ -1,0 +1,13 @@
+.image-with-caption-container {
+	text-align: center;
+}
+.image-with-caption-image {
+	margin-bottom: 2px;
+}
+.image-with-caption-caption {
+	font-style: italic;
+    color: #94949c;
+    text-align: center;
+    border-bottom: 1px solid #bfb4b4;
+    font-size: 0.8em;
+}
