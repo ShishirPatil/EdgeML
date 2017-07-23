@@ -45,3 +45,16 @@
 .pub-link {
 
 }
+
+.hidden {
+	display:none;
+}
+
+.sidebar-nav-submenu {
+	font-size:0.8em;
+}
+
+.sidebar-nav-submenu a {
+	color:inherit;
+	font-style: inherit;
+}
