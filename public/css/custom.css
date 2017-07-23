@@ -25,3 +25,23 @@
     padding-left: 4px;
     padding-right: 1px;
 }
+
+.publ-div {
+	margin-top:1.5em;
+}
+
+.publ-title {
+	font-weight: bold;
+}
+
+.publ-auth {
+	font-style: italic;
+}
+
+.publ-linklist {
+	font-size:0.8em;
+}
+
+.pub-link {
+
+}
