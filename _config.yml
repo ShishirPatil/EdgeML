@@ -30,6 +30,14 @@ plugins:
 # https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
 
 customurl:
-  bonsaipdf: /files/Bonsai.pdf
-  protonnpdf: /files/protonn.pdf
-  rpcapdf:  /files/robustpca.pdf
+  bonsai:
+    pdf: /files/Bonsai.pdf
+  
+  protonn:
+    pdf: /files/protonn.pdf
+  
+  rpca:
+    pdf:  /files/robustpca.pdf
+    code: https://github.com/andrewssobral/lrslibrary/tree/master/algorithms/mc/PG-RMC
+    poster:  /files/robustpca-poster.pdf
+    coltslides: /files/robustpca-colt-slides.pptx

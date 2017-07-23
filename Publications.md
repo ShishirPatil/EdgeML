@@ -11,7 +11,7 @@ title: Publications
       Ashish Kumar, Saurabh Goyal, Manik Varma, in ICML 2017.  
     </div>
     <div class="publ-linklist">
-        [<a href="{{ site.baseurl}}{{ site.customurl.bonsaipdf }}">PDF</a>]
+        [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]
     </div>
 </div>
 
@@ -23,7 +23,7 @@ title: Publications
       Ankit Gupta, Chirag Gupta, Arun Sai Suggala, Ankit Gupta, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain, in ICML 2017.
     </div>
     <div class="publ-linklist">
-        [<a href="{{ site.baseurl}}{{ site.customurl.protonnpdf }}">PDF</a>]
+        [<a href="{{ site.baseurl}}{{ site.customurl.protonn.pdf }}">PDF</a>]
     </div>
 </div>
 
@@ -35,7 +35,9 @@ title: Publications
       Yeshwanth Cherapanamjeri, Prateek Jain, Praneeth Netrapalli, in COLT 2017.
     </div>
     <div class="publ-linklist">
-        [<a href="{{ site.baseurl}}/files/robustpca.pdf">PDF</a>]
+        [<a href="{{ site.baseurl}}{{ site.customurl.rpca.pdf }}">PDF</a>]
+        [<a href="{{ site.customurl.rpca.code }}">Code</a>]
+        [<a href="{{ site.baseurl}}{{ site.customurl.rpca.poster }}">Poster</a>]
+        [<a href="{{ site.baseurl}}{{ site.customurl.rpca.coltslides }}">COLT 2017 Slides</a>]
     </div>
 </div>
-
