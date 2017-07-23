@@ -36,8 +36,8 @@ title: Publications
     </div>
     <div class="publ-linklist">
         [<a href="{{ site.baseurl}}{{ site.customurl.rpca.pdf }}">PDF</a>]
-        [<a href="{{ site.baseurl}}{{ site.customurl.rpca.matlabcode }}">ZIP</a>]
-        [<a href="{{ site.customurl.rpca.code }}">Code</a>]
+        [<a href="{{ site.baseurl}}{{ site.customurl.rpca.matlabcode }}">Matlab ZIP</a>]
+        [<a href="{{ site.customurl.rpca.code }}">More Code</a>]
         [<a href="{{ site.baseurl}}{{ site.customurl.rpca.poster }}">Poster</a>]
         [<a href="{{ site.baseurl}}{{ site.customurl.rpca.coltslides }}">COLT 2017 Slides</a>]
     </div>
