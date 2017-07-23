@@ -41,3 +41,4 @@ customurl:
     code: https://github.com/andrewssobral/lrslibrary/tree/master/algorithms/mc/PG-RMC
     poster:  /files/robustpca-poster.pdf
     coltslides: /files/robustpca-colt-slides.pptx
+    matlabcode: /files/Robust_PCA_code.zip
