@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Tutorial 2
 category: Getting Started
 ---
-Getting Started
+Getting Started Tutorial 2
