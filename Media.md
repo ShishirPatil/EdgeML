@@ -13,4 +13,4 @@ title: Media
 
 
 ## Workshops
-- ICML Workshop
+[ICML 2017 Workshop](https://sites.google.com/site/tinyml2017/)
