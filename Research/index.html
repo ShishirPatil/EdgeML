@@ -2,4 +2,33 @@
 layout: default
 title: Home
 ---
-Research page
+Insert description of project here.
+
+<h1> The Edge of Machine Learning </h1>
+<h4> Resource-efficient ML for the Edge and Endpoint IoT Devices </h4>
+
+<p>Our <i>objective</i> is to develop a library of efficient machine learning algorithms that can run on severely resource-constrained edge and endpoint IoT devices ranging from the Arduino to the Raspberry Pi.</p>
+
+<p>The Internet of Things (IoT) is poised to revolutionize our world. Billions of microcontrollers and sensors have already been deployed for predictive maintenance, connected cars, precision agriculture, personalized fitness and wearables, smart housing, smart cities, smart healthcare, etc. The dominant paradigm in these applications is that the IoT device is dumb – it just senses its environment and transmits the sensor readings to the cloud where all the intelligence resides and the decision making happens.</p>
+
+<p>We envision an alternative paradigm where <i>even tiny, resource-constrained IoT devices can run machine learning algorithms locally</i> without necessarily connecting to the cloud. This enables a number of critical scenarios, beyond the pale of the traditional paradigm, where it is not desirable to send data to the cloud due to concerns about latency, bandwidth and connectivity, energy, privacy and security, etc. </p>
+
+<p>We are therefore currently releasing tree and k-nearest neighbour based algorithms, called Bonsai and ProtoNN respectively, for classification, regression, ranking and other common IoT tasks. Bonsai and ProtoNN can be trained on the cloud, or on a laptop, but can then make predictions locally on the tiniest of microcontrollers without needing cloud connectivity.</p>
+
+<p>We have deployed Bonsai and ProtoNN on the Arduino Uno (8 bit ATmega328P microcontroller operating at 16 MHz without floating point support, 2 KB RAM and 32 KB read-only flash memory) and found that they can accurately make predictions within a few milliseconds. Detailed experiments and prediction cost-accuracy trade-offs can be found in our ICML 2017 papers.</p>
+
+<h2>Projects</h2>
+<ol>
+	<li>
+		<a href="{{ site.baseurl }}/Research/Bonsai">Bonsai</a>
+		<p>May be a two line description here?</p>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/Research/ProtoNN">ProtoNN</a>
+		<p>May be a two line description here?</p>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/Research/RobustPCA">Robust PCA</a>
+		<p>May be a two line description here?</p>
+	</li>
+</ol>
