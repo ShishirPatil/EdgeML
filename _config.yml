@@ -28,3 +28,8 @@ plugins:
 
 # For URL Setup, refer to
 # https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
+
+customurl:
+  bonsaipdf: /files/Bonsai.pdf
+  protonnpdf: /files/protonn.pdf
+  rpcapdf:  /files/robustpca.pdf
