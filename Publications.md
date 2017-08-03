@@ -20,7 +20,7 @@ title: Publications
      ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices
     </div>
     <div class="publ-auth">
-      Ankit Gupta, Chirag Gupta, Arun Sai Suggala, Ankit Gupta, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain, in ICML 2017.
+      Chirag Gupta, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain, in ICML 2017.
     </div>
     <div class="publ-linklist">
         [<a href="{{ site.baseurl}}{{ site.customurl.protonn.pdf }}">PDF</a>]
