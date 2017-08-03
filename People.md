@@ -9,15 +9,29 @@ title: People
 </div>
 
 ## Current members
-- <b>Velit elit</b>,<i>Microsoft Research India</i>
-- <b>velit duis</b>,<i>Microsoft Research India</i>
-- <b>est magna</b>,<i>Microsoft Research India</i>
-- <b>irure consequat</b>,<i>Microsoft Research India</i>
-- <b>fugiat quis</b>,<i>Microsoft Research India</i>
-- <b>culpa qui</b>,<i>Microsoft Research India</i>
-- <b>sit ex</b>,<i>Microsoft Research India</i>
-- <b>sit eiusmod</b>,<i>Microsoft Research India</i>
-- <b>eu adipisicing</b>,<i>Microsoft Research India</i>
-- <b>qui reprehenderit</b>,<i>Microsoft Research India</i>
-- <b>sint enim.</b>,<i>Microsoft Research India</i>
-## Past members (with current affiliations)
+- Aditya Kusupati
+- Ajay Manchepalli
+- Ashish Kumar
+- Chirag Gupta
+- Don Dennis
+- Harsha Vardhan Simhadri
+- Manik Varma
+- Nagarajan Natarajan
+- Praneeth Netrapalli
+- Prateek Jain
+- Raghavendra Udupa
+- Rahul Sharma
+- Ravishankar Krishnaswamy
+- Shishir Patil
+- Suresh Parthasarathy
+- Vivek Gupta
+- Vivek Seshadri
+
+<i class='affiliation'>All members are part of Microsoft Research India.</i>
+
+## Past members
+
+- Ankit Goyal, <i class='affiliation'>University of Michigan, Ann Arbor</i>
+- Bhargavi Paranjape, <i class='affiliation'>Microsoft Research, India</i>
+- Saurabh Goyal, <i class='affiliation'>IIT Delhi, India</i>
+- Yeshwanth Cherapanamjeri, <i class='affiliation'>University of California, Berkeley</i>
