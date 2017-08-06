@@ -11,8 +11,8 @@ title: Media
 
 ## Talks
 
-TAB video and slides
-
+Microsoft Research India TAB 2017 [slides]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e0482lzK_jI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## Workshops
 
