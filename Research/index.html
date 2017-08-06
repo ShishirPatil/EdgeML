@@ -3,20 +3,23 @@ layout: default
 title: Research
 category: Research
 ---
-Insert description of project here.
 
 <h1> Edge Machine Learning </h1>
 <h4> Resource-efficient ML for the Edge and Endpoint IoT Devices </h4>
 
-<p>Our <i>objective</i> is to develop a library of efficient machine learning algorithms that can run on severely resource-constrained edge and endpoint IoT devices ranging from the Arduino to the Raspberry Pi.</p>
 
-<p>The Internet of Things (IoT) is poised to revolutionize our world. Billions of microcontrollers and sensors have already been deployed for predictive maintenance, connected cars, precision agriculture, personalized fitness and wearables, smart housing, smart cities, smart healthcare, etc. The dominant paradigm in these applications is that the IoT device is dumb – it just senses its environment and transmits the sensor readings to the cloud where all the intelligence resides and the decision making happens.</p>
+<p><b> Objective:</b> Our objective is to develop a library of efficient machine learning algorithms which can be trained on a laptop, or the cloud, but can then make predictions locally on severely resource constrained Internet of Things devices without necessarily needing cloud connectivity.</p>
 
-<p>We envision an alternative paradigm where <i>even tiny, resource-constrained IoT devices can run machine learning algorithms locally</i> without necessarily connecting to the cloud. This enables a number of critical scenarios, beyond the pale of the traditional paradigm, where it is not desirable to send data to the cloud due to concerns about latency, bandwidth and connectivity, energy, privacy and security, etc. </p>
+<p><b>Resource constrained devices:</b> The Arduino Pro Mini board has an 8 bit ATmega328P microcontroller operating at 8 MHz with 2 KB SRAM and 32 KB read-only flash memory. The ARM Cortex M0 can also have just 2 KB SRAM and 32 KB read-only flash on some IoT boards. Neither provides hardware support for floating point operations. Billions of such tiny microcontrollers and IoT boards have been deployed in the world~\citep{Meunier14}. Before deployment, the bootloader and all application code and data are burnt onto flash, leaving only a few KB for storing the trained ML model, prediction code, feature extraction code and associated data and parameters. After deployment, the only writable memory available is the 2 KB of SRAM which might not be sufficient to hold even a single feature vector.</p>
 
-<p>We are therefore currently releasing tree and k-nearest neighbour based algorithms, called Bonsai and ProtoNN respectively, for classification, regression, ranking and other common IoT tasks. Bonsai and ProtoNN can be trained on the cloud, or on a laptop, but can then make predictions locally on the tiniest of microcontrollers without needing cloud connectivity.</p>
+<p><b>The Internet of Things:</b> A number of applications have been developed for consumer, enterprise and societal IoT including connected cars, predictive maintenance, industrial IoT, intelligent healthcare, fitness wearables, precision agriculture, smart cities and housing, {\it etc}. The dominant paradigm for these applications, given the severe resource constraints of IoT devices, has been that the IoT device is dumb -- it just senses its environment and transmits the sensor readings to the cloud where all the decision making happens. </p>
 
-<p>We have deployed Bonsai and ProtoNN on the Arduino Uno (8 bit ATmega328P microcontroller operating at 16 MHz without floating point support, 2 KB RAM and 32 KB read-only flash memory) and found that they can accurately make predictions within a few milliseconds. Detailed experiments and prediction cost-accuracy trade-offs can be found in our ICML 2017 papers.</p>
+<p><b>Motivating scenarios:</b> We propose an alternative paradigm where the IoT device can make predictions locally without necessarily connecting to the cloud. This enables many scenarios, beyond the pale of the traditional paradigm, where it is not possible to transmit data to the cloud due to latency, bandwidth, privacy and energy concerns. For instance, consider a microcontroller implanted in the brain which warns patients about impending seizures so that they can call for help, pull over if they are driving, {\it etc}. Making predictions locally would allow the device to work everywhere irrespective of cloud connectivity. Furthermore, alerts could be raised more quickly with local predictions than if all the sensor readings had to be first transmitted to the cloud.  In addition, since the energy required for executing an instruction might be much lower than the energy required to transmit a byte, making predictions locally would extend battery life significantly thereby avoiding repeated brain surgery and might also prevent brain tissue damage due to excess heat dissipation from the communicating radio. Finally, people might not be willing to transmit such sensitive  data to the cloud. These characteristics are shared by many other scenarios including implants in the heart, precision agriculture on disconnected farms, smart spectacles for the visually impaired, <i>etc</i>.</p>
+
+<p>Our library currently provides efficient tree and k-nearest neighbour algorithms for classification, regression, ranking, <i> etc.</i> which can make efficient and accurate predictions on microcontrollers and boards as tiny  as the ARM Cortex M0 and the Arduino Pro Mini. Please look at the pages of the individual algorithms for more details, summary of results and usage instructions.
+
+
+
 
 <h2>Projects</h2>
 <ol>
