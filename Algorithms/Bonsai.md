@@ -4,6 +4,12 @@ title: Bonsai
 category: Algorithms
 ---
 
+**Downloads:**
+<span class="publ-linklist">
+    [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]
+    \[[Code Coming Soon]()\]
+</span>
+
 <b>Bonsai</b> is a new tree model for supervised learning tasks such as binary and multi-class classification, regression, ranking, etc. Bonsai learns a single, shallow, sparse tree with powerful predictors at internal and leaf nodes. This allows Bonsai to achieve state-of-the-art prediction accuracies while making predictions efficiently in microseconds to milliseconds (depending on processor speed) using models that fit in a few KB of memory. Bonsai can be trained in the cloud or on your laptop, but can then make predictions locally on tiny resource-constrained devices without needing cloud connectivity. 
 
 Bonsai has been deployed successfully on microcontrollers tinier than a grain of rice such as the ARM Cortex M0 with just 2 KB RAM. Bonsai can also make predictions accurately and efficiently on the tiniest of IoT boards such as the Arduino Pro Mini based on an 8 bit Atmel ATmega328P microcontroller operating at 8 MHz without any floating point support in hardware, with 2 KB RAM and 32 KB read-only flash memory. Bonsai can also fit in the L1 cache of processors found in mobiles, tablets, laptops and servers for low-latency applications.
@@ -19,8 +25,4 @@ Bonsai can also be useful for switching to a smaller, cheaper and more energy-ef
 
 Please see our [ICML 2017 paper]({{ site.baseurl}}{{ site.customurl.bonsai.pdf }}) for more details about the model and algorithm and our [Getting Started]({{ site.baseurl}}/GettingStarted/) section for instructions on how to use Bonsai.
 
-**Downloads:**<br>
-<span class="publ-linklist">
-    [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]<br>
-    \[[Code Coming Soon]()\]
-</span>
+
