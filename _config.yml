@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Edge ML'
-tagline:          'Edge  Machine Learning.'
-description:       Microsoft Research India
+title:            'The Edge of Machine Learning'
+tagline:          'The Edge of Machine Learning.'
+description:      'Efficient ML for Edge & Endpoint IoT Devices'
 url:              'http://harsha-simhadri.org/'
 baseurl:          /EdgeML
 

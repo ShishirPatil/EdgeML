@@ -57,9 +57,20 @@
 .sidebar-nav-submenu a {
 	color:inherit;
 	font-style: inherit;
+	font-size:0.9em;
 }
 
 .affiliation {
 	font-size:0.8em;
 	color: #6f685f;
+}
+
+.sidebar-about h1 {
+	font-size: 2.5em;
+	line-height: 1em;
+}
+
+.sidebar-about .lead {
+	font-size:0.8em;
+	margin-bottom: 2em;
 }
