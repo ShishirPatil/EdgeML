@@ -11,7 +11,6 @@ title: People
 ## Current members
 - Aditya Kusupati
 - Ajay Manchepalli
-- Ashish Kumar
 - Chirag Gupta
 - Don Dennis
 - Harsha Vardhan Simhadri
@@ -21,7 +20,6 @@ title: People
 - Prateek Jain
 - Raghavendra Udupa
 - Rahul Sharma
-- Ravishankar Krishnaswamy
 - Shishir Patil
 - Suresh Parthasarathy
 - Vivek Gupta
@@ -31,7 +29,7 @@ title: People
 
 ## Past members
 
-- Ankit Goyal, <i class='affiliation'>University of Michigan, Ann Arbor</i>
-- Bhargavi Paranjape, <i class='affiliation'>Microsoft Research, India</i>
-- Saurabh Goyal, <i class='affiliation'>IIT Delhi, India</i>
-- Yeshwanth Cherapanamjeri, <i class='affiliation'>University of California, Berkeley</i>
+- Ashish Kumar <i class='affiliation'>(Research Fellow, now PhD student at UC Berkeley)</i>
+- Ankit Goyal <i class='affiliation'>(University of Michigan, Ann Arbor)</i>
+- Bhargavi Paranjape <i class='affiliation'>(Microsoft Research, India)</i>
+- Yeshwanth Cherapanamjeri <i class='affiliation'>(Research Fellow, now PhD student at UC Berkeley)</i>
