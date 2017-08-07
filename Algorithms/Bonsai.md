@@ -18,3 +18,8 @@ Bonsai is most useful for IoT scenarios where it is not advantageous to transmit
 Bonsai can also be useful for switching to a smaller, cheaper and more energy-efficient form factor such as from a Raspberry Pi 3 to an Arduino Pro Mini. Finally, Bonsai also generalizes to other resource-constrained scenarios beyond the Internet of Things and can be used on laptops, servers and the cloud for low-latency applications and to bring down energy consumption and operating costs.
 
 Please see our [ICML 2017 paper]({{ site.baseurl}}{{ site.customurl.bonsai.pdf }}) for more details about the model and algorithm and our [Getting Started]({{ site.baseurl}}/GettingStarted/) section for instructions on how to use Bonsai.
+
+**Downloads:**<br>
+<span class="publ-linklist">
+    [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]
+</span>
