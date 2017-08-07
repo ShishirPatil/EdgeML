@@ -4,7 +4,7 @@ title: People
 ---
 
 <div class='image-with-caption-container'>
-  <img class='image-with-caption-image' src="{{ site.baseurl}}/img/group_prateek.jpg" alt="EdgeML Group Photo" title="The researchers at Microsoft’s India lab who are working on the project.">
+  <img class='image-with-caption-image' src="{{ site.baseurl}}/img/group_prateek.jpg" alt="Group Photo of People Involved" title="The researchers at Microsoft’s India lab who are working on the project.">
   <div class='image-with-caption-caption'>The researchers at Microsoft Research's India lab who are working on the project.</div>
 </div>
 
