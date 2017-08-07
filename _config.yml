@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'The Edge of Machine Learning'
 tagline:          'The Edge of Machine Learning.'
-description:      'Efficient ML for Edge & Endpoint IoT Devices'
+description:      'Efficient ML for Edge & Endpoint IoT Devices & Other Resource-constrained Scenarios'
 url:              'http://harsha-simhadri.org/'
 baseurl:          /EdgeML
 
