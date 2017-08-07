@@ -13,3 +13,12 @@ PCA-based outlier or anomaly detection algorithm is an unsupervised learning alg
 The model size is controlled by a single hyperparameter ‘k’ (dimension of the linear subspace). The prediction time is very fast, similar to the case of [ProtoNN]({{ site.baseurl }}/Algorithms/ProtoNN/). 
 
 Refer to our [paper]({{ site.baseurl }}{{ site.customurl.rpca.pdf }}), where precise theoretical guarantees are developed; the iterative algorithm provably converges to the true subspace of the normal class, despite the presence of a constant fraction of outliers (anomalies) in the training data.
+
+**Downloads:**<br>
+<span class="publ-linklist">
+    [<a href="{{ site.baseurl}}{{ site.customurl.rpca.pdf }}">PDF</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.rpca.matlabcode }}">Matlab ZIP</a>]
+    [<a href="{{ site.customurl.rpca.code }}">More Code</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.rpca.poster }}">Poster</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.rpca.coltslides }}">COLT 2017 Slides</a>]
+</span>
