@@ -7,6 +7,8 @@ category: Algorithms
 **Downloads:**
 <span class="publ-linklist">
     [<a href="{{ site.baseurl}}{{ site.customurl.protonn.pdf }}">PDF</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.protonn.poster }}">ICML Poster</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.protonn.slides }}">ICML Slides</a>]
     \[[Code Coming Soon]()\]
 </span>
 

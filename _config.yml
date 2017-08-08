@@ -35,6 +35,8 @@ customurl:
   
   protonn:
     pdf: /files/protonn.pdf
+    poster: /files/icml-protonn-poster.pdf
+    slides: /files/icml-protonn-slides.pdf
   
   rpca:
     pdf:  /files/robustpca.pdf
