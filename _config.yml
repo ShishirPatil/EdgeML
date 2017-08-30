@@ -32,6 +32,9 @@ plugins:
 customurl:
   bonsai:
     pdf: /files/Bonsai.pdf
+    poster: /files/BonsaiPoster.pdf
+    results: /files/BonsaiResults.pptx
+    icmlpptx: /files/ICML_Bonsai.pptx
   
   protonn:
     pdf: /files/protonn.pdf

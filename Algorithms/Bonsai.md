@@ -7,6 +7,9 @@ category: Algorithms
 **Downloads:**
 <span class="publ-linklist">
     [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.poster }}">Poster</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.results }}">Summary of Results</a>]
+    [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.icmlpptx }}">ICML Presentation</a>]
     \[[Code Coming Soon]()\]
 </span>
 
