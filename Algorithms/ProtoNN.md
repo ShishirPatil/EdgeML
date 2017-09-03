@@ -9,7 +9,7 @@ category: Algorithms
     [<a href="{{ site.baseurl}}{{ site.customurl.protonn.pdf }}">PDF</a>]
     [<a href="{{ site.baseurl}}{{ site.customurl.protonn.poster }}">ICML Poster</a>]
     [<a href="{{ site.baseurl}}{{ site.customurl.protonn.slides }}">ICML Slides</a>]
-    \[[Code Coming Soon]()\]
+    [<a href="https://github.com/Microsoft/EdgeML">Code</a>]
 </span>
 
 ProtoNN is a novel, k-nearest neighbors (kNN) based general supervised learning algorithm that can be deployed on the tiniest of iot devices. ProtoNN produces state-of-the-art accuracies for typical iot prediction tasks, with just about 16kB of memory size. kNN is a popular choice for machine learning solution for general classification problems owing to its simplicity, generality, and interpretability. ProtoNN, in addition, enjoys key properties to be able to support real-time iot applications 
