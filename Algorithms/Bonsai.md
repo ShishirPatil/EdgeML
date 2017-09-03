@@ -10,7 +10,7 @@ category: Algorithms
     [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.poster }}">Poster</a>]
     [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.results }}">Summary of Results</a>]
     [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.icmlpptx }}">ICML Presentation</a>]
-    \[[Code Coming Soon]()\]
+    [<a href="https://github.com/Microsoft/EdgeML">Code</a>]
 </span>
 
 <b>Bonsai</b> is a new tree model for supervised learning tasks such as binary and multi-class classification, regression, ranking, etc. Bonsai learns a single, shallow, sparse tree with powerful predictors at internal and leaf nodes. This allows Bonsai to achieve state-of-the-art prediction accuracies while making predictions efficiently in microseconds to milliseconds (depending on processor speed) using models that fit in a few KB of memory. Bonsai can be trained in the cloud or on your laptop, but can then make predictions locally on tiny resource-constrained devices without needing cloud connectivity. 
