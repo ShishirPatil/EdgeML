@@ -11,7 +11,13 @@ title: Publications
       Ashish Kumar, Saurabh Goyal, Manik Varma, in ICML 2017.  
     </div>
     <div class="publ-linklist">
-        [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]
+        <span>
+            [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.pdf }}">PDF</a>]
+            [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.poster }}">Poster</a>]
+            [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.results }}">Summary of Results</a>]
+            [<a href="{{ site.baseurl}}{{ site.customurl.bonsai.icmlpptx }}">ICML Presentation</a>]
+            [<a href="https://github.com/Microsoft/EdgeML">Code</a>]
+        </span>
     </div>
 </div>
 
@@ -23,7 +29,12 @@ title: Publications
       Chirag Gupta, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain, in ICML 2017.
     </div>
     <div class="publ-linklist">
-        [<a href="{{ site.baseurl}}{{ site.customurl.protonn.pdf }}">PDF</a>]
+        <span>
+            [<a href="{{ site.baseurl}}{{ site.customurl.protonn.pdf }}">PDF</a>]
+            [<a href="{{ site.baseurl}}{{ site.customurl.protonn.poster }}">ICML Poster</a>]
+            [<a href="{{ site.baseurl}}{{ site.customurl.protonn.slides }}">ICML Slides</a>]
+            [<a href="https://github.com/Microsoft/EdgeML">Code</a>]
+        </span>
     </div>
 </div>
 
