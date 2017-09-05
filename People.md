@@ -9,21 +9,21 @@ title: People
 </div>
 
 ## Current members
-- Aditya Kusupati
-- Ajay Manchepalli
+- [Aditya Kusupati](https://adityakusupati.github.io/)
+- [Ajay Manchepalli](https://www.microsoft.com/en-us/research/people/ajayma/)
 - Chirag Gupta
-- Don Dennis
-- Harsha Vardhan Simhadri
-- Manik Varma
-- Nagarajan Natarajan
-- Praneeth Netrapalli
-- Prateek Jain
-- Raghavendra Udupa
-- Rahul Sharma
-- Shishir Patil
-- Suresh Parthasarathy
+- [Don Dennis](https://dkdennis.xyz/)
+- [Harsha Vardhan Simhadri](http://harsha-simhadri.org/)
+- [Manik Varma](https://www.microsoft.com/en-us/research/people/manik/)
+- [Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/t-nanata/)
+- [Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/)
+- [Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/)
+- [Raghavendra Udupa](https://www.microsoft.com/en-us/research/people/raghavu/)
+- [Rahul Sharma](https://www.microsoft.com/en-us/research/people/rahsha/)
+- [Shishir Patil](https://shishirpatil.github.io/)
+- [Suresh Parthasarathy](https://www.microsoft.com/en-us/research/people/supartha/)
 - Vivek Gupta
-- Vivek Seshadri
+- [Vivek Seshadri](https://www.microsoft.com/en-us/research/people/visesha/)
 
 <i class='affiliation'>All members are part of Microsoft Research India.</i>
 
