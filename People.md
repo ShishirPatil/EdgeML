@@ -29,7 +29,7 @@ title: People
 
 ## Past members
 
-- Arun Sai Suggala <i class='affiliation'>(Intern at MSR-India, Carnegie Mellon University)</i>
+- Arun Sai Suggala <i class='affiliation'>(Intern at MSR-India, PhD student at Carnegie Mellon University)</i>
 - Ashish Kumar <i class='affiliation'>(Research Fellow, now PhD student at UC Berkeley)</i>
 - Ankit Goyal <i class='affiliation'>(University of Michigan, Ann Arbor)</i>
 - Bhargavi Paranjape <i class='affiliation'>(Microsoft Research, India)</i>
